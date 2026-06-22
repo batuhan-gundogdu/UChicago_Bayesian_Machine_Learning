@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# graphviz output from notebook visualization cells
+Bayes Nets/student_pgm*
+Bayes Nets/*.pdf
