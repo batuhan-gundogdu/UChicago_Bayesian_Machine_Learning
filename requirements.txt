@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+seaborn
+pandas
+jupyterlab
+scikit-learn
+pymc
+arviz
+networkx
+pgmpy
+tqdm
